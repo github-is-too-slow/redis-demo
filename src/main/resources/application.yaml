@@ -1,0 +1,6 @@
+
+spring:
+  redis:
+    host: 39.103.174.115
+    port: 6379
+    password: jack:jack666
